@@ -8,6 +8,5 @@ this part is written locally
 
 ## thanks
 
-oopsie
-big tanks to Gwen Faraday and freeCodeCamp to intruduce me to git and github.
+big thanks to Gwen Faraday and freeCodeCamp to introduce me to git and github.
 https://www.youtube.com/watch?v=RGOj5yH7evk&t=1403s
